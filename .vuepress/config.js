@@ -1,4 +1,5 @@
 module.exports = {
+  "base": '/stupidur/',
   "title": "王狗狗个人笔记",
   "description": "向一个自己崇拜的自己去努力",
   "dest": "public",
